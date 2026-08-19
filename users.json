@@ -1,0 +1,15 @@
+{
+    "approved_users": {
+        "7957230089": {
+            "username": "voyager132",
+            "approved_at": "2026-08-19 11:44:43 UTC",
+            "role": "user"
+        }
+    },
+    "pending_users": {
+        "7480887946": {
+            "username": "manoharwayne",
+            "requested_at": "2026-08-19 11:14:15 UTC"
+        }
+    }
+}
