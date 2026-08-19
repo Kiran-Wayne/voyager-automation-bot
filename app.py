@@ -747,9 +747,9 @@ async def start_bot():
     await application.start()
 
 
-    #await application.bot.set_webhook(
-        #url=f"{RENDER_URL}/webhook"
-    #)
+    await application.bot.set_webhook(
+        url=f"{RENDER_URL}/webhook"
+    )
 
 
     logging.info(
